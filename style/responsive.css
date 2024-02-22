@@ -73,5 +73,5 @@
 	.post_gallery ul.slides{ height:149px; }
 	.mejs-time-rail{ display:none !important; }
 	.mejs-time-total{ display:none !important; }
-
+	#mainpage_accordion_area .section_body .post_header {display: flex;flex-wrap: wrap;}
 }
